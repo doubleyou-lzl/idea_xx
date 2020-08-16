@@ -7,4 +7,6 @@ public interface test01 {
 	void branch_01();
 	
 	void br02();
+	
+	void br03();
 }
